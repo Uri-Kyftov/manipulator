@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Manip\Manip\bin\Debug\Manip.exe.config
+C:\Users\Admin\source\repos\Manip\Manip\bin\Debug\Manip.exe
+C:\Users\Admin\source\repos\Manip\Manip\bin\Debug\Manip.pdb
+C:\Users\Admin\source\repos\Manip\Manip\obj\Debug\Manip.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Manip\Manip\obj\Debug\Manip.Form1.resources
+C:\Users\Admin\source\repos\Manip\Manip\obj\Debug\Manip.Properties.Resources.resources
+C:\Users\Admin\source\repos\Manip\Manip\obj\Debug\Manip.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Manip\Manip\obj\Debug\Manip.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Manip\Manip\obj\Debug\Manip.exe
+C:\Users\Admin\source\repos\Manip\Manip\obj\Debug\Manip.pdb
